@@ -1,8 +1,18 @@
 <template>
-  <my-header />
+  <div>
+    <my-header />
+    <div class="container-fluid">
+      <div class="row justify-content-center">
+        <div class="col-med-10 col-lg-7">
+          <router-view />
+        </div>
+      </div>
+    </div>
+  </div>
 </template>
 
 <script>
+/* @ ?-11:58 on Routes */
 import Header from "./components/Header.vue";
 
 export default {
