@@ -12,7 +12,6 @@
 </template>
 
 <script>
-/* @ ?-11:58 on Routes */
 import Header from "./components/Header.vue";
 
 export default {
