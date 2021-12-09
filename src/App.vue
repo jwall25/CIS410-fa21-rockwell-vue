@@ -23,6 +23,7 @@ export default {
 </script>
 
 <style>
+/* 15.1 Vuex @ 0:00 */
 /* #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
